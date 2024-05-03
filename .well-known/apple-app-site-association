@@ -1,10 +1,12 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
+    "apps": [],
+    "details": [
       {
-        "appID": "B56XD56NXA.com.example.vebikeFrontend",
-        "paths": ["*"]
+        "appID": "CNW7NC82C3.com.example.vebikeFrontend",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
