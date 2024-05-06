@@ -1,0 +1,11 @@
+[[redirects]]
+from = "/.well-known/*"
+to = "example.com/.well-known/:splat"
+status = 200
+force = true
+
+[[redirects]]
+from = "/*"
+to = "SendGrid Site"
+status = 200
+force = true
